@@ -1,0 +1,16 @@
+C:\Users\Dimas\source\repos\dann\bin\Debug\net8.0-windows\dann.exe
+C:\Users\Dimas\source\repos\dann\bin\Debug\net8.0-windows\dann.deps.json
+C:\Users\Dimas\source\repos\dann\bin\Debug\net8.0-windows\dann.runtimeconfig.json
+C:\Users\Dimas\source\repos\dann\bin\Debug\net8.0-windows\dann.dll
+C:\Users\Dimas\source\repos\dann\bin\Debug\net8.0-windows\dann.pdb
+C:\Users\Dimas\source\repos\dann\obj\Debug\net8.0-windows\dann.Form1.resources
+C:\Users\Dimas\source\repos\dann\obj\Debug\net8.0-windows\dann.csproj.GenerateResource.cache
+C:\Users\Dimas\source\repos\dann\obj\Debug\net8.0-windows\dann.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimas\source\repos\dann\obj\Debug\net8.0-windows\dann.AssemblyInfoInputs.cache
+C:\Users\Dimas\source\repos\dann\obj\Debug\net8.0-windows\dann.AssemblyInfo.cs
+C:\Users\Dimas\source\repos\dann\obj\Debug\net8.0-windows\dann.csproj.CoreCompileInputs.cache
+C:\Users\Dimas\source\repos\dann\obj\Debug\net8.0-windows\dann.dll
+C:\Users\Dimas\source\repos\dann\obj\Debug\net8.0-windows\refint\dann.dll
+C:\Users\Dimas\source\repos\dann\obj\Debug\net8.0-windows\dann.pdb
+C:\Users\Dimas\source\repos\dann\obj\Debug\net8.0-windows\dann.genruntimeconfig.cache
+C:\Users\Dimas\source\repos\dann\obj\Debug\net8.0-windows\ref\dann.dll
